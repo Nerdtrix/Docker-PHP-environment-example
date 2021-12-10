@@ -9,6 +9,8 @@ While browsing the internet it came to my attention that many people struggled t
 - PHPmyadmin (Latest version)
 - MYSQLI Support
 - PDO & pdo_mysql support
+- Supports OpenSSL
+- PHP init custom config
 - Check for updates and upgrade if there are any.
 - Supports Mysql persistent data in docker with the volume named dbdata
 - .htaccess support
